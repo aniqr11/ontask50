@@ -49,7 +49,7 @@ export default function Countdown() {
 
 function onCount() {
     setStart(false)
-    {days}{hours} {minutes}{seconds}
+    // {days}{hours} {minutes}{seconds}
     if(inputDate == "" ){
       alert("masukan data dahulu")
       setStart(true)
