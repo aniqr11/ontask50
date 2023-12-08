@@ -23,4 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-pages/currency.tsx
+src/pages/currency.tsx
+
+currency.tsx
