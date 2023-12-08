@@ -92,6 +92,8 @@ function onCount() {
         <p>
           {result}
         </p>
+
+        <p style={{display:"none"}}>{days},{hours} {minutes},{seconds}</p>
       </div>
     </div>
   );
