@@ -67,7 +67,7 @@ const Word = () => {
             Cek jawaban
           </button>
         </form>
-        <p>{isCorrect && "Correct! Well done."}</p>
+        <p>{isCorrect && "Correct!."}</p>
       </div>
     </div>
   );

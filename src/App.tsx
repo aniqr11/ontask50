@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 import MainPage from "./pages/main_page";
 import CountDate from "./pages/count_date";
-import Currency from "./pages/currency";
+// import Currency from "./pages/currency";
 import Gaji from "./pages/gaji";
 import Word from "./pages/word";
 
